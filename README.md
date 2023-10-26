@@ -7,18 +7,18 @@
 This repository contains a powerful authentication system built with React and Firebase, providing a seamless user authentication and management experience for web applications. The system includes user registration, email verification, login functionality, password reset, and user profile management. By combining the flexibility of React and the reliability of Firebase, this solution ensures a secure and responsive authentication process.
 
 # #Features
-User Registration: Allow users to create accounts securely, capturing essential details for effective user management.
-Email Verification: Implement email verification to validate user identities and enhance security measures.
-User Login: Provide a smooth login experience with secure authentication methods, ensuring user data privacy.
-Password Reset: Enable users to reset their passwords through secure and straightforward procedures.
-User Profile Management: Allow users to update their profiles, enhancing personalization and user engagement.
-Firebase Integration: Leverage Firebase's authentication services for a scalable and reliable backend solution.
-Responsive Design: Ensure a seamless experience across various devices and screen sizes.
+User Registration: Allow users to create accounts securely, capturing essential details for effective user management.\
+Email Verification: Implement email verification to validate user identities and enhance security measures.\
+User Login: Provide a smooth login experience with secure authentication methods, ensuring user data privacy.\
+Password Reset: Enable users to reset their passwords through secure and straightforward procedures.\
+User Profile Management: Allow users to update their profiles, enhancing personalization and user engagement.\
+Firebase Integration: Leverage Firebase's authentication services for a scalable and reliable backend solution.\
+Responsive Design: Ensure a seamless experience across various devices and screen sizes.\
 # #Technologies Used
-React: A popular JavaScript library for building user interfaces, ensuring a dynamic and interactive user experience.
-Firebase: A comprehensive platform by Google for building web and mobile applications, utilized here for secure authentication services.
-HTML/CSS: Standard web technologies used for structuring and styling the user interface.
-JavaScript: The programming language used for interactive features and seamless user interactions.
+React: A popular JavaScript library for building user interfaces, ensuring a dynamic and interactive user experience.\
+Firebase: A comprehensive platform by Google for building web and mobile applications, utilized here for secure authentication services.\
+HTML/CSS: Standard web technologies used for structuring and styling the user interface.\
+JavaScript: The programming language used for interactive features and seamless user interactions.\
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
