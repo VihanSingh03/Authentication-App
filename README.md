@@ -13,12 +13,15 @@ User Login: Provide a smooth login experience with secure authentication methods
 Password Reset: Enable users to reset their passwords through secure and straightforward procedures.\
 User Profile Management: Allow users to update their profiles, enhancing personalization and user engagement.\
 Firebase Integration: Leverage Firebase's authentication services for a scalable and reliable backend solution.\
-Responsive Design: Ensure a seamless experience across various devices and screen sizes.\
+Responsive Design: Ensure a seamless experience across various devices and screen sizes.
 # #Technologies Used
 React: A popular JavaScript library for building user interfaces, ensuring a dynamic and interactive user experience.\
 Firebase: A comprehensive platform by Google for building web and mobile applications, utilized here for secure authentication services.\
 HTML/CSS: Standard web technologies used for structuring and styling the user interface.\
-JavaScript: The programming language used for interactive features and seamless user interactions.\
+JavaScript: The programming language used for interactive features and seamless user interactions.
+
+# #Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for bugs, feature requests, or suggestions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
